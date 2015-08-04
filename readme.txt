@@ -1,4 +1,4 @@
-=== Display Current Author on Menu ===
+﻿=== Display Current Author on Menu ===
 Contributors: riyad_a
 Tags: author, menu, author menu, display author, display author name on menu, multi author
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=2ARSDUHFKCHA6&lc=US&item_name=Riyad%20Arefin¤cy_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted
@@ -14,7 +14,7 @@ Tiny plugin that allows you to display current author's name(Display Name) on me
 == Description ==
 This simple plugin allows users to display current author name on menu after logged in. Ideal for  Multi Author Sites. 
 
-Just add [display-author] shortcode to your menu's menu item level and you are good to go.
+Just add [display-author] shortcode to your menu's menu item label and you are good to go.
 
 == Installation ==
 This section describes how to install the plugin and get it working.
